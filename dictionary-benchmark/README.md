@@ -1,4 +1,4 @@
-Name: Liam Hinson, Student ID:
+Name: Liam Hinson, Student ID:008449409, GitHub Link: https://github.com/LiamHSSU/CS315FALL/tree/main/dictionary-benchmark
 
 Sources: When it came to the SortedLinkedList for 500000 elements, I was, and still am at the time of writing this, having issues with it either taking forever to finish.
 I never had an issue like this in the past so I do not know if my implementation is poor, or if it's something else. I checked with both StackOverFlow examples of similar 
