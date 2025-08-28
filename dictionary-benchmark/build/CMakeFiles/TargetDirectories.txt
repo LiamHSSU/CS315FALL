@@ -1,0 +1,3 @@
+/Users/kooshesh/Courses/2025fall/cs315/dictionary-benchmark-avgonly/build/CMakeFiles/DictionaryBenchmark.dir
+/Users/kooshesh/Courses/2025fall/cs315/dictionary-benchmark-avgonly/build/CMakeFiles/edit_cache.dir
+/Users/kooshesh/Courses/2025fall/cs315/dictionary-benchmark-avgonly/build/CMakeFiles/rebuild_cache.dir

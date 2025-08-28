@@ -1,0 +1,25 @@
+Structure,InputType,N,InsertTime(us),AvgLookup(ns)
+Unsorted Vector,Random,1000,6,6
+Sorted Vector,Random,1000,6,6
+Unsorted Linked List,Random,1000,6,6
+Sorted Linked List,Random,1000,5,5
+Unsorted Vector,NearlySorted,1000,6,6
+Sorted Vector,NearlySorted,1000,6,6
+Unsorted Linked List,NearlySorted,1000,6,6
+Sorted Linked List,NearlySorted,1000,6,5
+Unsorted Vector,Random,50000,279,5
+Sorted Vector,Random,50000,278,5
+Unsorted Linked List,Random,50000,291,5
+Sorted Linked List,Random,50000,290,5
+Unsorted Vector,NearlySorted,50000,279,5
+Sorted Vector,NearlySorted,50000,278,5
+Unsorted Linked List,NearlySorted,50000,278,5
+Sorted Linked List,NearlySorted,50000,279,5
+Unsorted Vector,Random,500000,2921,5
+Sorted Vector,Random,500000,2964,6
+Unsorted Linked List,Random,500000,2928,5
+Sorted Linked List,Random,500000,2879,6
+Unsorted Vector,NearlySorted,500000,2788,5
+Sorted Vector,NearlySorted,500000,2988,5
+Unsorted Linked List,NearlySorted,500000,2892,5
+Sorted Linked List,NearlySorted,500000,2882,5
